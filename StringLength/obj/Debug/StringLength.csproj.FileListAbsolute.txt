@@ -1,0 +1,7 @@
+C:\Users\remyg\Programming\C#\Lexicon_exercises\StringLength\StringLength\bin\Debug\StringLength.exe.config
+C:\Users\remyg\Programming\C#\Lexicon_exercises\StringLength\StringLength\bin\Debug\StringLength.exe
+C:\Users\remyg\Programming\C#\Lexicon_exercises\StringLength\StringLength\bin\Debug\StringLength.pdb
+C:\Users\remyg\Programming\C#\Lexicon_exercises\StringLength\StringLength\obj\Debug\StringLength.csprojAssemblyReference.cache
+C:\Users\remyg\Programming\C#\Lexicon_exercises\StringLength\StringLength\obj\Debug\StringLength.csproj.CoreCompileInputs.cache
+C:\Users\remyg\Programming\C#\Lexicon_exercises\StringLength\StringLength\obj\Debug\StringLength.exe
+C:\Users\remyg\Programming\C#\Lexicon_exercises\StringLength\StringLength\obj\Debug\StringLength.pdb
